@@ -21,7 +21,5 @@ Unlike many existing solutions that require commercial licensing or external off
 - Image watermark support
 - Page range targeting
 - Watermark tiling and positioning controls
-
-CLI interface
-
-Support for PDF watermarking
+- CLI interface
+- Support for PDF watermarking
